@@ -1,0 +1,68 @@
+.form-container {
+  background-image: url('E:\Xamp\htdocs\iteh-domaci3\src\images\store.jpg');
+  background-repeat: none;
+  background-size: cover;
+}
+
+.welcome{
+  margin-left: -25%;
+  margin-top: 20px;
+  font-style: italic;
+}
+  
+  .form-inputs {
+    margin-left: 27%;
+    width: 50%;
+  }
+  
+  .form-input-btn-name {
+
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 27%;
+    width: 50%;
+    border-radius: 2px;
+    background: linear-gradient(
+      180deg,
+      rgb(85, 156, 189) 0%,
+      rgba(155, 175, 197, 0.864) 100%
+    );
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 17px;
+  }
+  
+  .form-input-btn-name:hover {
+    cursor: pointer;
+    background: linear-gradient(
+      180deg,
+      rgb(85, 118, 189) 0%,
+      rgba(155, 175, 197, 0.864) 100%
+    );
+    color: rgb(29, 55, 80);
+  }
+ 
+  .podloga{
+    border-radius: 20px;
+    width: 50%;
+    background-color: #57575ad7;
+    padding:2%;
+  }
+
+  .form-input-sumAmount {
+
+    font-size: 0.9rem;
+    margin-top: 5px;
+    color: #fff;
+
+  }
+  
+  .gradient {
+    background: linear-gradient(
+      90deg,
+      rgb(94, 177, 192) 0%,
+      rgb(183, 216, 224) 100%
+    );
+    padding-bottom: 30px;
+  }
